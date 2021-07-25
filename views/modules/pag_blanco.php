@@ -37,7 +37,7 @@ include "head.php";
             <div class="page-breadcrumb">
                 <div class="row">
                     <div class="col-12 d-flex no-block align-items-center">
-                        <h4 class="page-title">Pagina blanco</h4>
+                        <h4 class="page-title">Clientes</h4>
                         <div class="ml-auto text-right">
                             
                         </div>
